@@ -81,3 +81,6 @@ Escaneie o QR Code com o aplicativo Expo Go no seu celular.
 
 O projeto foi desenvolvido com foco acadêmico, simulando funcionalidades reais de um assessor de investimentos.
 Nenhum dado financeiro real é utilizado. Todas as informações são fictícias e simuladas.
+
+Protótipo no Figma:
+https://www.figma.com/design/zOhXfpS4lt0z7zOMIhtVcb/Sprint2025?node-id=0-1&t=Q5svRD2LHqUCscHq-1

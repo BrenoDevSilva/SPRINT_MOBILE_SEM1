@@ -55,7 +55,7 @@ DatariumMobile/
 Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/BrenoDevSilva/SPRINT_MOBILE_SEM1.git
 cd DatariumMobile
 Instale as dependências:
 

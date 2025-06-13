@@ -1,0 +1,170 @@
+{
+  "Tesouro Direto Selic": {
+    "title": "Tesouro Direto Selic",
+    "description": "Investimento de baixíssimo risco, ideal para reserva de emergência e objetivos de curto prazo, atrelado à taxa básica de juros (Selic).",
+    "icon": "wallet-outline",
+    "riskLevel": "Baixo",
+    "returnPotential": "Baixo",
+    "simulatedHistory": [
+      { "year": "2020", "value": 10000 },
+      { "year": "2021", "value": 10400 },
+      { "year": "2022", "value": 10800 },
+      { "year": "2023", "value": 11200 },
+      { "year": "2024", "value": 11600 }
+    ]
+  },
+  "CDBs de liquidez diária": {
+    "title": "CDBs de Liquidez Diária",
+    "description": "Certificados de Depósito Bancário com alta liquidez, seguros e bons para manter seu dinheiro rendendo enquanto está acessível. Garantido pelo FGC.",
+    "icon": "cash-outline",
+    "riskLevel": "Baixo",
+    "returnPotential": "Baixo",
+    "simulatedHistory": [
+      { "year": "2020", "value": 10000 },
+      { "year": "2021", "value": 10450 },
+      { "year": "2022", "value": 10900 },
+      { "year": "2023", "value": 11350 },
+      { "year": "2024", "value": 11800 }
+    ]
+  },
+  "Fundos de Renda Fixa de baixo risco": {
+    "title": "Fundos de Renda Fixa",
+    "description": "Fundos que investem majoritariamente em títulos de renda fixa, buscando segurança e liquidez, com gestão profissional.",
+    "icon": "briefcase-outline",
+    "riskLevel": "Baixo",
+    "returnPotential": "Baixo",
+    "simulatedHistory": [
+      { "year": "2020", "value": 10000 },
+      { "year": "2021", "value": 10500 },
+      { "year": "2022", "value": 11000 },
+      { "year": "2023", "value": 11500 },
+      { "year": "2024", "value": 12000 }
+    ]
+  },
+  "CDBs de médio e longo prazo (prefixados, IPCA+)": {
+    "title": "CDBs de Médio/Longo Prazo",
+    "description": "Atraentes para quem busca retornos maiores que a Selic, com opções prefixadas ou atreladas à inflação. Exigem que o dinheiro fique investido por mais tempo.",
+    "icon": "calendar-outline",
+    "riskLevel": "Moderado",
+    "returnPotential": "Médio",
+    "simulatedHistory": [
+      { "year": "2020", "value": 10000 },
+      { "year": "2021", "value": 10800 },
+      { "year": "2022", "value": 11600 },
+      { "year": "2023", "value": 12500 },
+      { "year": "2024", "value": 13500 }
+    ]
+  },
+  "Fundos Multimercado Moderados": {
+    "title": "Fundos Multimercado Moderados",
+    "description": "Diversificam em diversas classes de ativos (renda fixa, ações, câmbio) com risco controlado, buscando retornos acima do CDI no médio prazo.",
+    "icon": "stats-chart-outline",
+    "riskLevel": "Moderado",
+    "returnPotential": "Médio",
+    "simulatedHistory": [
+      { "year": "2020", "value": 10000 },
+      { "year": "2021", "value": 10700 },
+      { "year": "2022", "value": 11500 },
+      { "year": "2023", "value": 12400 },
+      { "year": "2024", "value": 13400 }
+    ]
+  },
+  "Fundos de Investimento Imobiliário (FIIs)": {
+    "title": "Fundos Imobiliários (FIIs)",
+    "description": "Permitem investir no mercado imobiliário com pequenas quantias, recebendo rendimentos mensais (aluguéis) e potencial de valorização das cotas.",
+    "icon": "business-outline",
+    "riskLevel": "Moderado",
+    "returnPotential": "Médio",
+    "simulatedHistory": [
+      { "year": "2020", "value": 10000 },
+      { "year": "2021", "value": 10600 },
+      { "year": "2022", "value": 11300 },
+      { "year": "2023", "value": 12000 },
+      { "year": "2024", "value": 12800 }
+    ]
+  },
+  "Ações de grandes empresas (Blue Chips)": {
+    "title": "Ações (Blue Chips)",
+    "description": "Invista nas maiores e mais consolidadas empresas da bolsa. Oferecem potencial de alto retorno a longo prazo, com risco moderado a alto.",
+    "icon": "trending-up-outline",
+    "riskLevel": "Alto",
+    "returnPotential": "Alto",
+    "simulatedHistory": [
+      { "year": "2020", "value": 10000 },
+      { "year": "2021", "value": 9500 },
+      { "year": "2022", "value": 11000 },
+      { "year": "2023", "value": 13000 },
+      { "year": "2024", "value": 15500 }
+    ]
+  },
+  "Fundos de Ações": {
+    "title": "Fundos de Ações",
+    "description": "Geridos por profissionais, permitem diversificar em várias ações com um único investimento. Ideal para quem busca alta rentabilidade e aceita maior risco.",
+    "icon": "bar-chart-outline",
+    "riskLevel": "Alto",
+    "returnPotential": "Alto",
+    "simulatedHistory": [
+      { "year": "2020", "value": 10000 },
+      { "year": "2021", "value": 9800 },
+      { "year": "2022", "value": 11500 },
+      { "year": "2023", "value": 13500 },
+      { "year": "2024", "value": 16000 }
+    ]
+  },
+  "Criptoativos (com cautela e estudo)": {
+    "title": "Criptoativos",
+    "description": "Moedas digitais como Bitcoin e Ethereum. Oferecem o maior potencial de retorno, mas também o maior risco e volatilidade. Requerem estudo aprofundado.",
+    "icon": "server-outline",
+    "riskLevel": "Alto",
+    "returnPotential": "Alto",
+    "simulatedHistory": [
+      { "year": "2020", "value": 10000 },
+      { "year": "2021", "value": 20000 },
+      { "year": "2022", "value": 12000 },
+      { "year": "2023", "value": 25000 },
+      { "year": "2024", "value": 18000 }
+    ]
+  },
+  "Foco em ações com potencial de valorização": {
+    "title": "Ações de Crescimento",
+    "description": "Empresas com alto potencial de expansão, ideais para investidores que buscam valorização do capital no longo prazo e aceitam maior volatilidade.",
+    "icon": "rocket-outline",
+    "riskLevel": "Alto",
+    "returnPotential": "Alto",
+    "simulatedHistory": [
+      { "year": "2020", "value": 10000 },
+      { "year": "2021", "value": 9000 },
+      { "year": "2022", "value": 12000 },
+      { "year": "2023", "value": 15000 },
+      { "year": "2024", "value": 18000 }
+    ]
+  },
+  "Foco em fundos imobiliários e ações pagadoras de dividendos": {
+    "title": "Investimentos para Renda",
+    "description": "Focado em ativos que geram renda passiva regular, como dividendos de ações e aluguéis de FIIs. Ideal para quem busca complementar a renda mensal.",
+    "icon": "wallet-outline",
+    "riskLevel": "Moderado",
+    "returnPotential": "Médio",
+    "simulatedHistory": [
+      { "year": "2020", "value": 10000 },
+      { "year": "2021", "value": 10600 },
+      { "year": "2022", "value": 11200 },
+      { "year": "2023", "value": 11800 },
+      { "year": "2024", "value": 12400 }
+    ]
+  },
+  "Considere Fundos ESG e empresas sustentáveis": {
+    "title": "Investimentos ESG",
+    "description": "Invista em empresas e fundos com foco em sustentabilidade, responsabilidade social e boa governança. Alinhe seus investimentos com seus valores.",
+    "icon": "leaf-outline",
+    "riskLevel": "Moderado",
+    "returnPotential": "Médio",
+    "simulatedHistory": [
+      { "year": "2020", "value": 10000 },
+      { "year": "2021", "value": 10500 },
+      { "year": "2022", "value": 11000 },
+      { "year": "2023", "value": 11600 },
+      { "year": "2024", "value": 12200 }
+    ]
+  }
+}

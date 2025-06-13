@@ -21,8 +21,8 @@ const TAB_LABELS: { [key: string]: string } = {
     Portfolio: 'Portfólio',
     Explanation: 'Explicação',
     History: 'Histórico',
-    InvestorProfile: 'Perfil', // Rótulo mais conciso
-    Settings: 'Ajustes', // Um label mais curto para a tab bar
+    InvestorProfile: 'Perfil',
+    Settings: 'Ajustes',
 };
 
 export default function HomeTabs() {

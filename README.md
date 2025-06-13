@@ -27,20 +27,23 @@ Datarium é um aplicativo que **simula** um assessor virtual de investimentos in
 * Responsividade e boas práticas de UI/UX
 * Simulação ética de IA com foco em LGPD e redução de viés
 
-📂 Estrutura do Projeto
+📂 Estrutura do Projeto  
 
+```
 DatariumMobile/
 ├── App.tsx
 ├── src/
-│   ├── components/
-│   ├── screens/
+│   ├── context/
+│   ├── data/
+│   ├── images/
 │   ├── navigation/
-│   ├── assets/ # Para assets específicos do código fonte, como imagens de ícones de componentes
-│   └── utils/
-├── assets/     # Para assets globais, como a logo principal ou fontes
+│   ├── screens/
+│   ├── services/
+│   └── assets/
+├── assets/
 ├── package.json
 └── tsconfig.json
-
+```
 
 👥 Integrantes
 
@@ -52,21 +55,26 @@ DatariumMobile/
 
 🧪 Como Executar o Projeto
 
-Clone o repositório:
+Clone o repositório:  
 
-```bash
+bash
+```
 git clone https://github.com/BrenoDevSilva/SPRINT_MOBILE_SEM1.git
-cd DatariumMobile
+cd DatariumMobile  
+```
 Instale as dependências:
 
 Bash
-
+```
 npm install
+```
+
 Execute o projeto com Expo:
 
 Bash
-
+```
 npx expo start
+```
 Escaneie o QR Code com o aplicativo Expo Go no seu celular.
 
 📌 Observações
